@@ -1,24 +1,6 @@
-# vue_ts
+# Gitbook이란
 
-## Project setup
-```
-yarn install
-```
+### GitBook의 용도
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+GitBook
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
