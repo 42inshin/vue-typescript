@@ -1,7 +1,3 @@
----
-description: Gitbook 기능 테스트 중입니다.
----
-
 # Gitbook이란
 
 ### GitBook의 용도
