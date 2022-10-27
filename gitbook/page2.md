@@ -1,5 +1,31 @@
-# 두번째 페이지
+# vue-typescript
 
-깃허브에 README 와 연결되있는 페이지에서 이 페이지는 어떤식으로 나올까?
+## vue\_ts
 
-부모-자식 관계일 경우
+### Project setup
+
+```
+yarn install
+```
+
+#### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+#### Compiles and minifies for production
+
+```
+yarn build
+```
+
+#### Lints and fixes files
+
+```
+yarn lint
+```
+
+#### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
